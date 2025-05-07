@@ -80,7 +80,7 @@ This repository contains five structured time series assignments focused on appl
     ├── Task3/
     │ └── BoxJenkins_ARIMA.ipynb
     │
-    ├── task4/
+    ├── Task4/
     │ └── Prophet_Modeling.ipynb
     │
     ├── Task5/
